@@ -1,0 +1,35 @@
+.box1{
+    background-color: rgb(106, 106, 230);
+    width: 20%;
+    margin-right: 5%;
+    height: 750px;
+    margin-top: 5%;
+}
+
+.box2{
+    background-color: blueviolet;
+    width: 20%;
+    margin-right: 5%;
+    height: 750px;
+    margin-top: 5%;
+}
+
+.box3{
+    background-color: rgb(248, 124, 124);
+    width: 20%;
+    margin-right: 5%;
+    height: 750px;
+    margin-top: 5%;
+}
+
+.box4{
+    background-color: rgb(255, 199, 125);
+    width: 20%;
+    height: 750px;
+    margin-top: 5%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
